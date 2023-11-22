@@ -1,16 +1,16 @@
 # amelhanifi_midterm_application
 
-A new Flutter project.
+Name of the game  :  Adventure Game
 
-## Getting Started
+My game contains 6 rooms. The entry Hall, the dining room, the library, the kitchen, the study room, and the garden.
 
-This project is a starting point for a Flutter application.
+If the player wants to move from room to room, he will be clicking on the directional buttons indicating east, west, north, or south. 
 
-A few resources to get you started if this is your first Flutter project:
+The directional button appears only if there is a room in the respective direction. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The main screen of my game will contain an exit button that will help the player to exit the application and return to the main screen of the phone. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Each room will have a description, and some hints to guide the player in determining which room he is about to enter.
+
+
+
